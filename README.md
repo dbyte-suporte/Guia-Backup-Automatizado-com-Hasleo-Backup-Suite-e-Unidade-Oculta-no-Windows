@@ -64,6 +64,8 @@ Alguns pontos do procedimento original precisam de ajustes:
 
 > **Navegação:** estes links usam as âncoras geradas automaticamente pelo GitHub. O GitHub transforma letras em minúsculas, converte espaços em `-` e remove pontuação; por isso, por exemplo, `Z:` vira `#atribuir-a-letra-z` e não `#atribuir-a-letra-z:`. citeturn0search0
 
+# Sumário
+
 1. [Pré-requisitos](#1-pré-requisitos)
 2. [Downloads oficiais](#2-downloads-oficiais)
 3. [Arquitetura recomendada](#3-arquitetura-recomendada)
@@ -72,8 +74,8 @@ Alguns pontos do procedimento original precisam de ajustes:
 6. [Ocultar Z no Explorer](#6-ocultar-z-no-explorer)
 7. [Configurar o Hasleo Backup Suite](#7-configurar-o-hasleo-backup-suite)
 8. [Criar e preparar o pendrive WinPE](#8-criar-e-preparar-o-pendrive-winpe)
-9. [Integrar o Hasleo ao ambiente de recuperação](#9-integrar-o-hasleo-ao-ambiente-de-recuperação)
-10. [Usar Ventoy como alternativa](#10-usar-ventoy-como-alternativa)
+9. [Usar Ventoy como alternativa](#9-usar-ventoy-como-alternativa)
+10. [Integrar o Hasleo ao ambiente de recuperação](#10-integrar-o-hasleo-ao-ambiente-de-recuperação)
 11. [Procedimento de restauração](#11-procedimento-de-restauração)
 12. [Problemas comuns](#12-problemas-comuns)
 13. [Boas práticas](#13-boas-práticas)
